@@ -19,7 +19,8 @@ etc...
 - Airsoft
 - Self-made keyboard
 - Virtual Reality
-- [Music](https://www.ymtr.jp/hobby#live): Leo IEIRI
+- [Music](https://www.ymtr.jp/hobby#live)
+  - Leo IEIRI
 - Mahjong Soul
 - Project SEKAI
 - FF14
