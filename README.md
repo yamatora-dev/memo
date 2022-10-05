@@ -35,4 +35,4 @@ etc...
 - [GitHub](https://github.com/yamatora)
 - [Qiita](https://qiita.com/yamatora)
 - [Twitter](https://twitter.com/_yamatora)
-- [Instagram](https://instagram.com/_yamatora_)
+- [Instagram](https://instagram.com/_yamatora)
