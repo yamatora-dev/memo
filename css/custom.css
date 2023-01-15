@@ -1,0 +1,63 @@
+/* body {
+    /* font-family: "Noto Sans JP";　
+    Materialよりこれが優先ぽい
+     */ 
+    /* background-color: #a0a0a0; */
+    /* color: #00f47a; */
+/* } */
+.md-header {
+    background-color: rgb(10,11,11);
+    color: rgb(205, 203, 201);
+}
+/* 
+.md-tabs__inner {
+    background-color: #2d2d2d;
+}
+.md-footer{} */
+
+nav.md-tabs {
+    background-color: rgb(30,32,33);
+}
+
+.md-tabs--active {
+    color:rgb(30,32,33) !important;
+}
+
+/* 見出し */
+/* 下線 */
+.md-typeset h1 {
+    font-weight: bold;
+    border-bottom: 4px double;
+    padding-bottom: .1em;
+}
+.md-typeset h2 {
+    font-weight: bold;
+    border-bottom: 2px solid;
+}
+.md-typeset h3 {
+    border-bottom: 1px dashed;
+}
+.md-typeset h4 {
+    display: inline-block !important;
+    font-family: "FontAwesome";
+    margin-right: .3em;
+}
+/* アイコン */
+.md-typeset h4::before {
+    content: "\f0da" !important;
+}
+.md-typeset h5::before {
+    content: "\2d" !important;
+}
+.md-typeset h6::before {
+    content: "\2d" !important;
+}
+
+/* 定義リスト */
+dt {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+dd {
+    font-size: 0.9em; 
+}
