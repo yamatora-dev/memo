@@ -7,8 +7,8 @@ hide:
 # yamatora. / やまとら｡
 
 - **_Software Engineer_**
-    - `C#`, `C++` etc.
-    - `Visual Studio`, `Unity`
+    - `C#`, `C++`, `Python`
+    - `Visual Studio`, `Unity`, `Qt`
     - since 2018
 - **_Night College Student_** (Information and Engineering)
     - Scheduled to graduate in March 2024
